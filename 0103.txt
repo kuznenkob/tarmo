@@ -1,0 +1,6 @@
+html5 css3 brackets visualstudiocode sublimetext nodejs
+
+na4ali s hello world, potom neskolko premenennqh, dalee tekst.
+phpinfo(); pokazqvaet polnuju infu o php i drugom dannqh
+
+ciklq for i while
